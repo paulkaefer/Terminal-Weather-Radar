@@ -1,8 +1,9 @@
 #!/bin/bash
 
 #Set variables
-DOWNLOAD_DIR=/tmp/weather/
+DOWNLOAD_DIR=/tmp/weather
 WEATHER_GIF=http://archive.wfaa.com/weather/images/core/animated-loops/comp/880x495/new_tarrant.gif
+# Milwaukee: http://sirocco.accuweather.com/nx_mosaic_640x480_public/sir/inmasirmr_MKE.gif
 
 COUNTER=0
 
